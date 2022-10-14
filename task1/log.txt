@@ -1,0 +1,11 @@
+commit 934c2c42c5624e8a20c0c9bd2460a2f3b7f561fd
+Author: bogdan.kulish <bogdan.kulish@gmail.com>
+Date:   Fri Oct 14 13:28:00 2022 +0300
+
+    add task1 status.txt file
+
+commit b161baa9630b549d22a437c833c0b9c7cc000739
+Author: bogdan.kulish <bogdan.kulish@gmail.com>
+Date:   Fri Oct 14 13:26:07 2022 +0300
+
+    ad .gitignore
