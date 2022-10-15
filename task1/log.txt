@@ -1,3 +1,17 @@
+commit 63888dadb2f2f06b6a05f0de5a31ae5877f95880
+Author: bogdan.kulish <bogdan.kulish@gmail.com>
+Date:   Sat Oct 15 15:15:58 2022 +0300
+
+    Revert "ad .gitignore"
+    
+    This reverts commit b161baa9630b549d22a437c833c0b9c7cc000739.
+
+commit 9644b38a1d4287ad15181646bdd281d2b25a7e48
+Author: bogdan.kulish <bogdan.kulish@gmail.com>
+Date:   Fri Oct 14 13:31:49 2022 +0300
+
+    add log text file
+
 commit 934c2c42c5624e8a20c0c9bd2460a2f3b7f561fd
 Author: bogdan.kulish <bogdan.kulish@gmail.com>
 Date:   Fri Oct 14 13:28:00 2022 +0300
